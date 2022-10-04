@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "School" >> school
+cd .
+echo echo School
+echo "School"
